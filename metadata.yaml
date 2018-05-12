@@ -1,0 +1,30 @@
+_repo: Bible-Myths-and-their-Parallels-in-other-Religions--13-Being-a-Comparison-of-the-Old-and-New-__31885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doane, T. W. (Thomas William)
+    alias: Doane, Thomas William
+    birthdate: 1852
+    deathdate: 1885
+    gutenberg_agent_id: '35534'
+    url: http://www.gutenberg.org/2009/agents/35534
+description: ''
+gutenberg_issued: '2010-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcc 'BL'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+title: "Bible Myths and their Parallels in other Religions\r\nBeing a Comparison of\
+  \ the Old and New Testament Myths and Miracles with those of the Heathen Nations\
+  \ of Antiquity Considering also their Origin and Meaning"
+url: http://www.gutenberg.org/ebooks/31885
